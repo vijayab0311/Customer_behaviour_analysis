@@ -75,6 +75,10 @@ ________________________________________
 •	Provided insights for improving customer retention and sales 
 ________________________________________
 
+📌 Conclusion
+
+This project showcases the complete lifecycle of a data analytics project, from raw data processing to insight generation and visualization. It reflects real-world analyst responsibilities and demonstrates strong technical and analytical skills required for Data Analyst roles.
+
 📑 Report & Presentation
 •	Created a structured report summarizing findings 
 •	Developed a PowerPoint presentation (Gamma) 
