@@ -85,4 +85,7 @@ ________________________________________
 
 This project showcases the complete lifecycle of a data analytics project, from raw data processing to insight generation and visualization. It reflects real-world analyst responsibilities and demonstrates strong technical and analytical skills required for Data Analyst roles.
 
+<img width="1349" height="750" alt="Customer_analysis_dashboard" src="https://github.com/user-attachments/assets/6309baca-eedc-4008-8834-0d17cc4b6373" />
+
+
 
